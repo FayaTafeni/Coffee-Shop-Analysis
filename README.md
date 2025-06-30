@@ -17,24 +17,6 @@ To answer the following business questions:
 - **Planning & Design**: Miro, Canva
 - **Presentation**: Canva
 
-## 📁 Project Structure
-
-```
-📦 Bright-Coffee-Shop-Sales-Analysis
-├── README.md
-├── /data
-│   └── Bright_Coffee_Shop_Sales.csv
-├── /sql
-│   └── transformations.sql
-├── /visuals
-│   ├── dashboard.xlsx
-│   └── charts/
-├── /presentation
-│   └── CEO_Presentation.pptx
-└── /docs
-    └── methodology.pdf
-```
-
 ## 🔍 Analysis Workflow
 
 ### 1. Planning & Architecture (via Miro)
