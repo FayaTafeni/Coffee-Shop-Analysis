@@ -58,3 +58,9 @@ To answer the following business questions:
 - [x] Dashboards (Excel)
 - [x] Executive Presentation
 - [x] Methodology Document
+
+## 6. Project files
+markdown
+- [Sales Data (CSV)](data/Bright_Coffee_Shop_Sales.csv)
+- [SQL Transformation Script](sql/transformations.sql)
+- [Presentation to CEO](presentation/CEO_Presentation.pptx)
