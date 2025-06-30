@@ -1,2 +1,2 @@
-# Brightlight
+# Bright Coffee Shop
 Business Insights For new CEO_Brightside Coffee Shop
