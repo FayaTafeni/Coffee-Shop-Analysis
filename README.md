@@ -59,6 +59,3 @@ To answer the following business questions:
 - [x] Executive Presentation
 - [x] Methodology Document
 
-## 6. Project files
-markdown
-- Coffee Shop_Presentation_compressed.pdf
