@@ -61,6 +61,4 @@ To answer the following business questions:
 
 ## 6. Project files
 markdown
-- [Sales Data (CSV)](data/Bright_Coffee_Shop_Sales.csv)
-- [SQL Transformation Script](sql/transformations.sql)
-- [Presentation to CEO](presentation/CEO_Presentation.pptx)
+- Coffee Shop_Presentation_compressed.pdf
