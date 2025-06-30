@@ -1,2 +1,3 @@
 # Bright Coffee Shop
-Business Insights For new CEO_Brightside Coffee Shop
+Business Insights for a New CEO using Historical Transactional Data from 
+Bright Coffee Shop
