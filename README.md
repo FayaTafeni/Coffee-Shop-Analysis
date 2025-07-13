@@ -1,61 +1,69 @@
-# ☕ Bright Coffee Shop Sales Analysis (BRIGHTLIGHT)
+# Bright Coffee Shop Sales Analysis
 
-This project provides a comprehensive sales analysis of the Bright Coffee Shop, aimed at helping the newly appointed CEO make data-driven decisions to improve revenue and product performance. It utilizes SQL for data processing, Excel for visualization, and Canva for delivering strategic insights.
+## 📊 Introduction
 
-## 📌 Objective
+This project analyzes transactional sales data from Bright Coffee Shop to generate actionable insights for the newly appointed CEO. The primary goal is to support data-driven decision-making that boosts revenue and improves product performance.
 
-To answer the following business questions:
-- Which products generate the most revenue?
-- What time of day does the store perform best?
-- What are the sales trends across product types and time intervals?
-- What actions can improve overall sales performance?
+---
+
+## 🎯 Objectives
+
+- Identify top-performing and underperforming products  
+- Analyze sales trends across different time intervals  
+- Determine peak performance hours  
+- Provide recommendations for improving overall sales  
+
+---
 
 ## 🛠 Tools Used
 
-- **SQL Platforms**: Snowflake
-- **Data Visualization**: Microsoft Excel
-- **Planning & Design**: Miro, Canva
-- **Presentation**: Canva
+### Coding & Database
+- Microsoft SQL Server  
+- Snowflake  
+- MySQL Workbench  
 
-## 🔍 Analysis Workflow
+### Data Visualization
+- Microsoft Excel  
+- Power BI  
+- Tableau  
 
-### 1. Planning & Architecture (via Miro)
-- Data Flow Diagram: Source → ETL → Snowflake DB → Excel/BI Tool
-- Key insights identified: product/category performance, time-based trends, revenue analysis
-- Calculations outlined:
-  - `total_amount = unit_price * transaction_qty`
-  - Grouping by 30-minute (or 1-hour) intervals
+### Whiteboarding & Presentation
+- Miro (or equivalent)  
+- Microsoft PowerPoint  
+- Canva  
 
-### 2. Data Processing in Snowflake
-- Converted Excel data to CSV
-- Handled formatting (e.g., commas in unit prices)
-- Calculated:
-  - `transaction_time_bucket`
-  - `total_amount`
-- Grouped data by product types, categories, time buckets
+---
 
-### 3. Data Analysis in Excel
-- Created dashboards with:
-  - Total revenue by product type
-  - Peak time intervals
-  - Quantity sold by category
-  - Best-performing products
+## 🧱 Project Structure
 
-### 4. Presentation to the CEO
-- Delivered in PowerPoint with clear visuals
-- Key recommendations:
-  - Schedule marketing during low-sales periods
-  - Increase stock for bestsellers
-  - Promote underperforming items
-  - Implement loyalty programs
-  - Automate daily sales reporting
+1. **Planning & Architecture (Miro)**
+   - Data Flow & Architecture Diagram
+   - Key Insights Identification
+   - Calculation Planning
 
-## ✅ Deliverables
+2. **Data Processing (Snowflake)**
+   - Data cleaning and transformation
+   - Calculating total sales per transaction
+   - Grouping by product and time buckets
 
-- [x] Miro Planning Diagram
-- [x] Cleaned & Transformed Dataset
-- [x] SQL Code for Data Transformation
-- [x] Dashboards (Excel)
-- [x] Executive Presentation
-- [x] Methodology Document
+3. **Data Analysis (Excel)**
+   - Pivot tables and dashboards for insights
+   - Visual representation of revenue, sales quantity, and peak hours
+
+4. **Presentation to CEO**
+   - Executive summary and key recommendations
+   - Data-driven visuals and charts
+   - Business strategies and next steps
+
+---
+
+## 🧮 Key Calculations
+
+- `total_amount = unit_price * transaction_qty`
+- Time-based grouping (30-minute or hourly intervals)
+- Sales summaries by product type and category
+
+---
+
+## 📁 File Structure
 
