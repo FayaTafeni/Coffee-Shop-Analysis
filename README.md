@@ -17,20 +17,15 @@ This project analyzes transactional sales data from Bright Coffee Shop to genera
 
 ## 🛠 Tools Used
 
-### Coding & Database
-- Microsoft SQL Server  
-- Snowflake  
-- MySQL Workbench  
+### Coding & Databaser  
+- Snowflake    
 
 ### Data Visualization
 - Microsoft Excel  
-- Power BI  
-- Tableau  
+- Microsoft PowerPoint  
 
 ### Whiteboarding & Presentation
-- Miro (or equivalent)  
-- Microsoft PowerPoint  
-- Canva  
+- Miro     
 
 ---
 
